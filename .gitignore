@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/validatecuitcuil/bin/Debug/netcoreapp3.0
+/validatecuitcuil/obj
